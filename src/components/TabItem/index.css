@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.tab-item {
+  list-style: none;
+  padding: 0px;
+  border: 0px;
+}
+.button {
+  border: 0px;
+  border-bottom: 1px solid rgb(176, 176, 176);
+  padding: 10px;
+  background-color: transparent;
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 13px;
+  color: rgb(176, 176, 176);
+  cursor: pointer;
+}
+.clicked-tab {
+  border-bottom: 3px solid #2563eb;
+  color: #2563eb;
+  font-size: 15px;
+}
